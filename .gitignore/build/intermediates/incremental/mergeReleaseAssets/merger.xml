@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Michael\.android\build-cache\c243612569e21db7649ec6904f395b8bea0d2522\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Michael\vk-android-sdk\VKasync\app\src\main\assets"/><source path="C:\Users\Michael\vk-android-sdk\VKasync\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\Michael\vk-android-sdk\VKasync\app\src\release\assets"/></dataSet></merger>

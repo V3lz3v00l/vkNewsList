@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Michael\\vk-android-sdk\\VKasync\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_item.xml",
+        "source": "C:\\Users\\Michael\\vk-android-sdk\\VKasync\\app\\src\\main\\res\\layout\\image_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\vk-android-sdk\\VKasync\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "C:\\Users\\Michael\\vk-android-sdk\\VKasync\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\vk-android-sdk\\VKasync\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Michael\\vk-android-sdk\\VKasync\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\vk-android-sdk\\VKasync\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_item.xml",
+        "source": "C:\\Users\\Michael\\vk-android-sdk\\VKasync\\app\\src\\main\\res\\layout\\news_item.xml"
+    }
+]
